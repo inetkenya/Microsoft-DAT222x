@@ -1,0 +1,263 @@
+Defining Data
+
+M1L1HW1
+Classify the data type and scale of measurement for the following variable: your favorite fast food chain
+Classify the data type:
+Answer : Categorical
+
+Classify the scale of measurement:
+Answer : Nominal
+
+M1L1HW2
+Classify the data type and scale of measurement for the following variable: your shoe size
+Classify the data type:
+Answer : Numerical
+
+Classify the scale of measurement:
+Answer : Discrete
+
+M1L1HW3
+Classify the data type and scale of measurement for the following variable: a company's percentage profit margin
+Classify the data type:
+Answer : Numerical
+
+Classify the scale of measurement:
+Answer : Continuous
+
+M1L1HW4
+Classify the data type and scale of measurement for the following variable: 
+Level of education: Some High School, High School Graduate, Some College, College Graduate
+Classify the data type:
+Answer : Categorical
+
+Classify the scale of measurement:
+Answer : Ordinal
+
+M1L2HW1
+Using the IQ data in the Problem 1 sheet of the homework spreadsheet, create a histogram with 15 bins. 
+Group people with IQs less than or equal to 55 into one bin and those greater than 145 into another. 
+The remaining bins should be of equal size.
+Your histogram indicates that IQs are:
+Answer : symmetric
+
+M1L2HW2
+Using the data in the Problem 2 sheet of the homework spreadsheet, create a histogram for gold returns with 7 bins. 
+Group year with a return less than or equal to -20% into one bin, and years with returns greater than 120% into a separate bin. 
+The remaining bins should be of equal size.
+Your histogram indicates that annual gold returns:
+Answer : positively skewed
+
+M1L2HW3
+Construct histograms for REIT, gold, and bond returns.
+Based on these histograms, which order represents the spread about the mean from largest to smallest?
+Answer : Gold, REIT, Bonds
+
+M1L3HW1
+Using the data in the Problem 1 sheet of the homework spreadsheet, complete the following tasks and answer the following questions.
+Identify all outliers for REIT returns to answer the following question. 
+Calculate this using the Rule of Thumb method that Wayne covers in the video in this lesson. 
+Do not use any other approach as it may result in the incorrect answer.
+In what year(s) is the REIT return an outlier? Select all that apply.
+Answers : 
+1. 1974
+2. 2008
+
+M1L3HW2
+Using the data in the Problem 2 sheet of the homework spreadsheet, complete the following tasks and answer the following questions.
+Calculate the daily percentage returns for the Dow Index to answer the following questions.
+What was the 3rd largest return, rounded to the nearest first decimal?
+Answer : 6.8%
+
+What was the 2nd lowest daily percentage return, rounded to the nearest first decimal?
+Answer : -7.7%
+
+1% of the daily percentage returns are greater than or equal to what percentage, rounded to the nearest first decimal?
+Answer : 3.3%
+
+The September 17, 2007 return ranks in what percentile of all daily returns in the given data set, rounded to the nearest first decimal?
+Answer : 5.3%
+
+M1L3HW3
+Using the annual revenues for Microsoft in the Problem 3 sheet of the homework spreadsheet, 
+calculate the compound annual growth rate to answer the following question.
+Given the annual revenues for Microsoft, what is the CAGR?
+Answer : 7.8%
+
+M1L4HW1
+This question uses the Question 1 Worksheet. 
+Create a boxplot for the 1971 Draft Lottery and use this boxplot to answer the following question.
+Has the problem with the 1970 Draft Lottery that Wayne discussed in this lesson appear to have been resolved?
+Answer : Yes
+
+M1L4HW2
+This set of questions uses the Question 2 Worksheet. Given annual returns on REITS, bonds, and gold, create a boxplot to visualize 
+the distribution of annual returns for REITS, gold, and bonds, and answer the following questions.
+Which investment class has the largest median annual return?
+Answer : REITS
+
+Which investment has the largest mean annual return?
+Answer : REITS
+
+Which investment’s annual returns are the most positively skewed?
+Answer : Gold
+
+M1L4HW3
+This set of questions uses the Question 3 Worksheet. You are given the math and reading scores for a representative sample of 
+5th graders in US, Finland, and South Korea. 
+Construct a boxplot to summarize this data, and use the boxplot to answer the following questions.
+Note: To make the legend showing which color is 'reading' and which color is 'math' appear, 
+you may have to click (when inside boxplot) on the Design tab, 
+and choose 'Legend' from the 'Add Chart Element' icon in the upper left-hand corner.
+
+In which country does the typical student perform best on reading?
+Answer : Finland
+
+The reading and math scores in each country are...
+Answer : Symmetric
+
+True or False: Math scores in both the US and Finland are more variable than reading scores.
+Answer : True
+
+M1L5HW1
+This question uses the Question 1 Worksheet. You are given the colors of 500 European cars. 
+Create a column and pie chart to answer the following questions.
+What is the most common color of car?
+Answer : White
+
+What is the least common color of car?
+Answer : Green
+
+M1L5HW2
+This question uses the Question 2 Worksheet. You are given the populations of the 50 US States, Washington DC, and Puerto Rico. 
+Create a column and pie chart that summarizes the number of locations that have populations in the following ranges: 
+0-5 million, 5-10 million, etc.
+
+Which population range has the most number of locations?
+Answer : 0 - 5 million
+
+How many locations have populations over 20 million?
+Answer : 3
+
+M1L5HW3
+This question uses the Question 3 Worksheet. To answer the questions below, 
+create a PivotTable or PivotChart that calculates the percentage of patients that live or die at each hospital for each risk category.
+Create an additional PivotTable or PivotChart that calculates the overall percentage of patients that live or die at each hospital 
+regardless of their risk category.
+
+Which hospital has a higher percentage of survival for high risk patients?
+Answer : ER
+
+Which hospital has a higher percentage of survival for low risk patients?
+Answer : ER
+
+Which hospital has a higher percentage of survival for low risk patients?
+Answer : CH
+
+M1L6HW1
+To answer the following questions, review the charts provided in the Question 1 Worksheet that summarize sales revenue 
+at an appliance store.
+
+Which product group generates the most revenue?
+Answer : Electronics
+
+Which product generates the most revenue?
+Answer : TV
+
+M1L6HW2
+To answer the following questions, create a Treemap and Sunburst chart that summarizes the student enrollment data 
+classified by school and major provided in the Question 2 Worksheet.
+
+Which school has the most students?
+Answer : COAS
+
+What is the most popular major?
+Answer : Social Sciences
+
+M1L6HW3
+To answer the following question, create Sunburst and Treemap charts to summarize the supermarket sales by product 
+and product group data provided in the Question 3 Worksheet.
+Which product generated the most revenue?
+Answer : Raisin Bran cereal
+
+M1L7HW1
+This question is based on the dataset in the Question 1 Worksheet.
+Create a Pareto chart to summarize the revenue ranking of your customers.
+You may find it help it helpful to widen the graph.
+Does the 80-20 rule appear to hold in this situation?
+Answer : Yes
+
+M1L7HW2
+This question is based on the dataset in the Question 2 Worksheet. You are given the reasons employees are late to work. 
+Summarize the data in a Pareto Chart to answer the following question.
+Which causes together account for approximately 70% of all employee tardiness?
+Answer : Traffic and Subway
+
+
+Module 1 Quiz
+
+M1Q1
+You know that a student’s class is Freshman, Sophomore, Junior, or Senior.
+The scale of measurement for student’s class variable is:
+Answer : Ordinal
+
+M1Q2
+You have the following data in your data set. Identify the data type and scale of measurement for each.
+Level in Job Role (Entry, Intermediate, Expert)
+Data Type:
+Answer : Discrete
+
+Scale of Measurement:
+Answer : Ordinal
+
+Income (Selected from a range of options, such as less than $50,000, $50,000-$100,000, etc.)
+Data Type:
+Answer : Categorical
+
+M1Q3
+Using the data in Module 1_Quiz Data_Stocks.xlsx, answer the following question.
+What is the skewness of IBM stock returns rounded to the nearest 3 decimal places?
+Answer : -.685
+
+M1Q4
+Using the data in Module 1_Quiz Data_Stocks.xlsx, answer the following question.
+Which stock exhibits the least variability?
+Answer : GE
+
+M1Q5
+Using the data in Module 1_Quiz Data_Stocks.xlsx, answer the following question.
+How many of the Intel returns are outliers? Use the rule of thumb as described by Wayne. 
+Do not create a box plot to determine the answer.
+Answer : 7
+
+M1Q6
+Using the data in Module 1 Quiz Data_Stocks.xlsx, answer the following question.
+The 95%ile of 3M monthly returns is approximately:
+Answer : 11.1%
+
+M1Q8
+Calculate the average rate of return for each of the stocks in Module 1_Quiz CAGR.xlsx file since 2007.
+Which stock had the lowest rate of return?
+Answer : IBM
+
+M1Q9
+Using the data in Module 1_Quiz Data_BoxPlot.xlsx, create a box plot and then answer the following question.
+Which stock’s monthly returns has the highest median? Base your response on the visualization.
+Answer : Dell
+
+M1Q10
+How would you describe the distribution of the data in the histogram above?
+Answer : Negatively skewed
+
+M1Q12
+Using the data in Module 1_Quiz Data_Pareto.xlsx, create a Pareto Chart illustrating the complaints 
+that your organization has received over the last 6 months, and then answer the following question.
+Based on the Pareto chart, what would you recommend that your organization focus on to drive increased customer satisfaction? 
+Choose all that apply.
+Answers : 
+1. Parking
+2. Sales rude
+
+M1Q13
+The table in Module 1_Quiz Data_Income.xlsx shows the mean and median income for Americans over several years.
+In which of the following years was the typical American doing the worst financially?
+Answer : 2012
