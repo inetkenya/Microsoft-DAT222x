@@ -1,0 +1,134 @@
+M2L1HW1
+When two six-sided dice are rolled, what is the probability of rolling a total of 5?
+Remember that there are 36 possible outcomes when rolling two six-sided dice.
+Answer : 1/9
+
+M2L1HW2
+When tossing a coin 4 times, what is the probability of tossing 3 or 4 heads.
+There are 16 outcomes in the sample space. Out of the 16 outcomes, how many have 3 or more heads?
+Answer : 5/16 
+
+M2L1HW3
+When drawing a card from a deck of cards, what is the probability of drawing an 8 or a 9?
+Remember that a standard deck of 52 playing cards consists of 4 suits with each suit having an 8 and 9 card.
+Answer : 2/13
+
+M2L2HW1
+If you toss 3 six-sided dice, what is the probability that your total is between 4 and 17 inclusive?
+There are 6*6*6 = 216 outcomes in the sample space. The probability of rolling a 3 or 18 is 2/216.
+Answer : 107/108
+
+M2L2HW2
+If you draw a card from a deck of cards, what is the probability that the card is NOT a diamond?
+A standard deck of 52 cards contains four suits with 13 cards in each suit.
+Answer : 39/52
+
+M2L2HW3
+In a family with 3 childen, what is the probability that there is a child of each gender (male/female)?
+Answer : 3/4
+
+M2L3HW1
+Events A and B are mutually exclusive. Can events A and B be independent?
+Answer : Events A and B cannot be independent.
+
+M2L3HW2
+30% of all students at Carver High School play basketball, 20% run cross country, and 10% do both 
+(i.e., play basketball and run cross country).
+What percentage of the students play at least one sport?
+Answer : 40%
+
+M2L3HW3
+Suppose we randomly choose an integer between one and ten inclusive. 
+Let A = event that the number is prime.
+Let B = event that the number is less than or equal to 5.
+Are events A and B independent?
+Answer : Events A and B are not independent.
+
+M2L4HW1
+A roulette wheel contains the numbers 0, 00, 1, 2, …, 36. Suppose you bet that 00 will win on each of 25 spins. 
+After 25 spins, what is the probability that you have won at least once?
+Answer : .49
+
+M2L4HW2
+Suppose that 10% of all adults watch "The Bachelor" television program and that half of all adults are men. 
+Assume that 80% of "The Bachelor" viewers are women, compute the probability that a given woman is a viewer of "The Bachelor."
+Answer : .16
+
+M2L4HW3
+A bowl contains 4 red balls and 6 blue balls. Two balls are drawn (without replacement) from the bowl. 
+Given that the second ball is blue, what is the chance the first ball is blue?
+Answer : 5/9
+
+M2L5HW1
+A company has a plant in Houston and Dallas. 70% of the employees work in Houston, and 30% work in Dallas. 
+Each year 3% of the Houston employees are involved in an accident, and 5% of the Dallas employees are involved in an accident.
+If you randomly choose an employee who had an accident last year, what is the probability that they work in Houston?
+Answer : 0.58
+
+M2L5HW2
+Assume 1 in every 1000 people are liars. Also suppose a lie detector test is 98% accurate. 
+That is, if a person is lying, there is a 98% chance the test will indicate that they are lying. 
+Also, if the person is NOT lying, there is a 98% chance the test will indicate the person is NOT lying.
+If the lie detector test indicates the person is lying, what is the probability that the person is lying?
+Answer : 0.05
+
+M2L5HW3
+85% of all cabs are blue and the rest are green. A cab identified in a hit and run accident is identified as green. 
+People can correctly identify the color of a cab 80% of the time. 
+When surveyed, most Stanford students thought there was an 80% chance the cab is actually green.
+
+Do you agree?
+Answer : No
+
+What is the chance that the cab is actually green?
+Answer : 0.41
+
+
+Module 2 Quiz
+
+M2Q1
+You have a group of 12 products. You know that 3 are defective.
+If you select one product, what is the probability that you will select a defective product?
+Answer : 1/4
+
+M2Q3
+You have a standard deck of 52 cards (i.e., 4 aces, 4 twos, 4 threes, …, 4 tens, 4 jacks, 4 queens, and 4 kings) 
+that contains 4 suits (hearts, clubs, spades, and diamonds). We draw one card from the deck. 
+What is the probability that the card is an ace or a heart?
+Answer : 16/52
+
+M2Q4
+Forty percent (40%) of all MBAs received an A in operations, and 45% received an A in statistics. 
+Twenty percent (20%) of all MBAs received an A in both classes. 
+What is the probability that a randomly chosen MBA did not get an A in either of these classes?
+Answer : 0.35
+
+M2Q6
+Given the standard deck of cards, what is the probability of drawing a red card, given that it is a face card?
+Answer : 26/52
+
+M2Q8
+An urn contains three white balls and three black balls. 
+Let B1= Event that the first ball is black, and B2 = Event that the second ball is black. 
+If a ball is drawn but not replaced, then P(B2|B1) =
+Answer : 2/5
+
+M2Q9
+Four employees who work as drive-through attendees at a local fast food restaurant are being evaluated
+as a part of quality improvement initiative; these workers were observed over three days. 
+One of the statistics collected is the proportion of time employee remembers to include a coupon for the next purchase in the bag.
+What is the probability that on a randomly chosen visit Pat bagged your meal and forgot to include a coupon?
+Answer : .015
+
+M2Q10
+Ninety percent (90%) of an insurance company's policyholders are low risk and 10% are high risk. 
+Assume that each policyholder has either 0 or 1 accident in a year. 
+Assume 75% of high risk policyholders have an accident in a year and 10% of low risk policyholders have an accident in a year.
+If we randomly pull a policyholder's accident report, what is the chance the policyholder was high risk?
+Answer : 0.45
+
+M2Q11
+At a certain university, 30% of the students major in zoology. Of the students majoring in zoology, 60% are males. 
+Of all the students at the university, 70% are males. 
+What is the probability that one randomly selected student is a male or is majoring in zoology?
+Answer : 82%
