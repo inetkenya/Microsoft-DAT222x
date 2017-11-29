@@ -1,0 +1,244 @@
+M3L1HW1
+Identify the following variables as discrete or continuous:
+Number of aces drawn if 5 cards are drawn from a deck of cards
+Answer : discrete
+
+Number of games won by Manchester United during 2018 Premier League Season
+Answer : discrete
+
+Market share during its first year for a new statin drug.
+Answer : continuous
+
+Time you wait in line at TSA security
+Answer : continuous
+
+M3L1HW2
+Indicate if you think the following pairs of random variables are independent.
+Price charged for a candy bar and number of candy bars sold
+Answer : not independent
+
+Return on Microsoft and Facebook stock during 2018
+Answer : not independent
+
+Games won by Manchester United and the Golden State Warriors in 2018
+Answer : independent
+
+2018 return on the Dow Index and your child's score on an IQ test
+Answer : independent
+
+M3L1HW3
+A company's market share is equally likely to assume any number between 20% and 80%. 
+What is the chance their market share is greater than (>) 60%?
+Answer : 1/3 chance that their market share is > 60%
+
+M3L2HW1
+When a roulette wheel is spun, the possible outcomes are 0, 00, 1, 2, …, 36.
+If you bet on a number, you win $35 if your number wins, and you lose $1 otherwise.
+What is the mean and standard deviation of your winnings on a single play of the game?
+Answer : m = -0.053, stddev = 5.8
+
+M3L2HW2
+A stock currently sells for $40. In the next month, there is a 60% chance that the stock price will double, 
+and a 40% chance that the stock will drop 50%. In a month, you will sell the stock.
+Find the mean and standard deviation of your profit (in dollars).
+Answer : m = $16.00, stddev = $29.39
+
+M3L2HW3
+When a roulette wheel is spun, the possible outcomes are 0, 00, 1, 2, …, 36.
+Suppose you bet on an odd number coming up in roulette. If an odd number comes up, you win $1, 
+and if an odd number does not come up, you lose $1. 
+HINT: The probabilty of an odd number is not the same as the probability of an even number.
+Find the mean and standard deviation of your profit.
+Answer : m = -0.053, stddev = 0.999
+
+M3L3HW1
+You toss two dice fifty times. Find the mean, variance, and standard deviation of the total number of dots showing.
+Mean : 350
+Variance : 292 
+Standard Deviation : 17.08
+
+M3L3HW2
+The average number of births each day in Gotham City Hospital is 6 with a standard deviation of 3. 
+In a 30 day month determine the mean, variance, and standard deviation of the total number of births.
+The mean calculation requires the assumption that each day's births follow same random variable; no independence needed.
+Mean : 180
+The variance and standard deviation calculations 
+require the assumption that births on each day follow identical independent random variables.
+Variance : 270
+Standard Deviation : 16.43
+
+M3L3HW3
+When a roulette wheel is spun, the possible outcomes are 0, 00, 1, 2, …, 36. 
+If you bet on a number coming up, you win $35 if your number comes up and you lose $1 otherwise.
+You bet $1 on the number 14 in roulette 100 times.
+Find the mean, variance, and standard deviation of your winnings.
+Mean : Lose $5.26
+Variance : 3320.8
+Standard Deviation : $57.63
+
+M3L4HW1
+Suppose that, on average, 4% of all CD drives received by a computer company are defective. 
+The company has adopted the following policy: Sample 50 CD drives in each shipment, and accept the shipment if none are defective. 
+Using this information, determine the following:
+What percentage of shipments will be accepted?
+Answer : 13%
+
+Suppose the policy changes so that a shipment is accepted if up to one CD drive in the sample is defective. 
+What percentage of shipments will be accepted?
+Answer : 40%
+
+What is the probability that a sample size of 50 will contain at least 10 (i.e., 10 or more) defective CD drives?
+Answer : 0.0025%
+
+M3L4HW2
+Airline overbooking data tells us that 95% of booked passengers show up for their flight. On a flight with 100 tickets available, 
+determine how the probability of overbooking varies as the number of tickets sold varies from 100 through 115.
+What is the probability of overbooking when 101 tickets are sold?
+Answer : 1%
+What is the probability of overbooking when 105 tickets are sold?
+Answer : 39%
+What is the probability of overbooking when 112 tickets are sold?
+Answer : 99%
+
+M3L4HW3
+Suppose that during any given year, a given mutual fund has a 50% chance of beating the Standard and Poor’s 500 Stock Index.
+What is the probability that one fund will beat the Standard and Poor’s 500 Stock Index during at least 8 out of 10 years?
+Answer : 5.47%
+In a group of 100 mutual funds, what is the probability that at least 10 funds will beat the Standard 
+and Poor’s 500 Stock Index during at least 8 out of 10 years?
+Answer : 4.72%
+
+M3L5HW1
+A math model predicts that, on average, a soccer team should score 2.1 goals in today's game.
+What is the probability that they score greater than or equal to 2 goals?
+Answer : 62%
+
+M3L5HW2
+A book has an average of 1 misprint per 20 pages.
+What is the probability that a 200 page book has less than or equal to 5 misprints?
+Answer : 7% 
+
+M3L5HW3
+An average of 300 passengers per hour arrive at security at the Mumbai airport.
+In a three hour period, what is the probability that exactly 900 passengers arrive?
+Answer : 1%
+
+M3L6HW1
+Suppose that average number of ounces in a soda can is 12.03, that the standard deviation is 0.05 ounces,
+and that this follows a normal distribution. 
+Answer the following questions.
+If a soda can is acceptable if it contains at least 12 ounces, what percentage of cans are acceptable?
+Answer : 73%
+What percentage of cans have less than 12.1 ounces?
+Answer : 92%
+
+M3L6HW2
+The annual demand for a drug is normally distributed with a mean of 40,000 units and a standard deviation of 10,000 units. 
+Answer the following questions.
+What is the probability that annual demand is between 35,000 and 49,000 units, inclusive?
+Answer : 51%
+If you want to have only a 5% chance of running out of the drug, at what level should you set annual production?
+Answer : 56,449
+
+M3L6HW3
+The weekly sales of Volvo’s Cross Country station wagons are normally distributed with a mean of 1,000 and standard deviation of 250. 
+Answer the following questions.
+What is the probability that between 400 through 1,100, inclusive, station wagons are sold during one week?
+Answer : 65%
+There is a 1% chance that fewer than what number of station wagons is sold during a week?
+Answer : 418
+
+M3L7HW1
+The probability of winning a game of craps is 0.493.
+If I play 10,000 games of craps and bet the same amount on each game, what is the probability that I’m not losing money?
+Answer : 8%
+
+M3L7HW2
+Assume the mean daily percentage change in the Dow Jones Index is 0, with a standard deviation of 1.5 percent.
+Assume there are 252 trading days in a year.
+What is the chance the Dow Jones Index increases by 20% or more during a year?
+Answer : 20%
+
+M3L7HW3
+500 potential customers come to my candy store each day. Seventy percent of the customers 
+buy no pieces of candy, 15 percent buy one piece, 10 percent buy two pieces, and 5 percent buy three pieces.
+What is the chance that I sell at least 280 pieces of candy in a day?
+Answer : 6%
+
+M3L8HW1
+This question uses the exam scores dataset in JulyZScoresHW.xlsx. 
+Given the scores on an exam, compute the z-scores and highlight the outliers.
+Verify the mean of the z-scores equals 0 and the standard deviation of the z-scores equals 1.
+Using the Rule of Thumb to define outliers (described by Wayne in Module 1), 
+how many outliers are in the dataset? If you use any other method to identify outliers, you may not obtain the correct answer.
+Answer : 4
+
+M3L8HW2
+This question uses the exam scores dataset in JulyZScoresHW.xlsx.
+Suppose we made a grading error on the data in Problem 1 above and gave everybody credit for a 5 point question 
+that everybody actually had wrong.
+After adjusting the scores, would the z-scores change?
+Answer : No
+
+M3L8HW3
+When teachers grade on a curve, they often use z-scores to determine grade cutoffs.
+Suppose in Class 1 the mean score equals 70 and the standard deviation equals 10. 
+In Class 2, the mean score equals 75 and the standard deviation equals 8. 
+Assume a z-score of greater than or equal to 1.5 receives an A grade.
+What should be the cutoff for an A in Class 2?
+Answer : 87
+
+
+Module 3 Quiz
+
+M3Q1
+For each of the following variables, indicate if it is ‘discreet’ or ‘continuous.’
+Gender : discreet
+Employment status : discreet
+Annual Salary reported in ranges (e.g., up to $15,000, $15,000-$25,000, etc.) : discreet
+Software company’s 2018 revenue : continuous
+Number of drug companies producing a particular drug : discreet
+Weight : continuous
+Height : continuous
+Miles and fraction of miles hiked in a month : continuous
+Time spent on homework : continuous
+Number of heads tossed : discreet
+Number of even numbers tossed : discreet
+
+M3Q2
+Assume the number of pounds of chocolate consumed in a year is equally likely between 20 and 100 pounds.
+What is the probability that someone consumes less than 60 pounds of chocolate in a year?
+Answer : 0.50
+
+M3Q3
+A toss of a 20-sided die is equally likely to be any integer between 1 and 20 inclusive.
+What is the expected value of the number tossed? Provide your answer to a single decimal point.
+Answer : 10.5
+
+M3Q4
+A toss of a 20-sided die is equally likely to be any integer between 1 and 20 inclusive. 
+What is the variance? Please provide your answer to two decimal points.
+Answer : 33.25
+
+M3Q6
+I toss a fair coin 100 times. What is the probability that I observe more than 60 heads?
+Answer : 0.0176
+
+M3Q7
+Suppose 2% of all cell phone chips are defective. We randomly select 100 of the 50,000 cell phone chips produced in a day. 
+What is the chance that 0 defective chips will be found?
+Answer : 0.13
+
+M3Q9
+Assume the average weight of a loaf of bread is a normal random variable with mean = 1 pound and standard deviation .05 pounds. 
+What is the probability that a loaf of bread weighs more than 1.05 pounds?
+Answer : 0.16 
+
+M3Q10
+Suppose the mean score on an exam is 70 with a standard deviation of 10. A score of 95 would have a Z-Score of:
+Answer : 2.5
+
+M3Q12
+Assume that the annual household expenditure on sugar is approximately normally distributed with a mean of $8.22 
+and a standard deviation of $1.10. What is the probability that a household spent more than $10.00?
+Answer : .0526
