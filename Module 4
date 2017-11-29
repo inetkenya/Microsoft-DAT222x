@@ -1,0 +1,181 @@
+M4L1HW1
+In 2016, SurveyMonkey and NBC administered web surveys to determine the preferences of voters in each state.
+Suppose 10,000 voters responded in each state.
+Would the preferences obtained from the survey reflect the preferences of all voters in the state? 
+If not, what type of bias has occurred?
+Answer : Response bias
+
+What is the simplest way to overcome this problem and get an accurate estimate of the voter preferences in each state?
+Answer : Survey a simple random sample of 1500 voters in each state.
+
+M4L1HW2
+A study showed that a lower %age of cats who fell from six or fewer stories survived than cats who fell from more than six stories. 
+The results were based on visits to vet's offices.
+Is this study biased? If so, which bias occurred?
+Answer : Survivorship bias
+
+M4L1HW3
+Clinical trials that indicate a new drug is better than an older drug are twice as likely to be published 
+than studies that indicate the new drug is no better.
+This is an example of which type of bias?
+Answer : Publication bias
+
+M4L2HW1
+Five chips (numbered 1-5) are in a bowl. Two chips are drawn repeatedly (with replacement) from the bowl. 
+Let the random variable x-bar be the mean of the two chips drawn. Calculate the mean and variance of x-bar.
+Mean : 3
+Variance : 1
+
+M4L2HW2
+The number of ounces in a soda can follows a normal random variable with mean = 12.1 ounces and standard deviation = 0.05 ounces. 
+Assume the number of ounces in each can of soda in a six pack are independent random variables.
+What is the mean and standard deviation of the mean number of ounces in a six pack of soda?
+Mean : 12.1
+Standard Deviation : 0.0204
+
+M4L2HW3
+Let p-hat be the fraction of heads observed when we toss a fair coin 1,600 times. 
+Find the mean and standard deviation of p-hat.
+Mean : 0.5
+Standard Deviation : 0.0125
+
+M4L3HW1
+What is the probability that a standard normal value is less than or equal to -1.5?
+Answer : 0.0668
+
+M4L3HW2
+What is the probability that a standard normal value is greater than or equal to 2.5?
+Answer : 0.0062
+
+M4L3HW3
+There is a 0.5% probability a that standard normal is greater than:
+Answer : 2.576
+
+M4L4HW1
+Assume that the standard deviation of invoice values is $1,000. A sample of 100 invoices has a mean value of $5,000.  
+You are 95% confident that the mean size of an invoice is between which two values?
+Answer : $4,804 and $5,196
+
+M4L4HW2
+A sample of 100 American males has an average weight of 170 pounds and a standard deviation of 30 pounds. 
+You are 95% confident that the average weight of an American male is between which two values?
+Answer : 164 and 176 pounds
+
+M4L4HW3
+You observe an NBA player make 80 of 100 free throws.
+You are 95% confident that his true free throw percentage is between which two values?
+Answer : 0.72 and 0.88
+
+M4L6HW4
+Be sure to use the JulyBlythHW.xlsx file for this problem.
+A hospital ER saw 250 patients and none contracted a hospital induced infection. 
+You are 95% sure that the actual fraction of ER patients that will contract a hospital induced infection is between _____ and ____.
+Answer : 0 and .0119
+
+M4L5HW1
+In a Presidential election poll, how many voters need to be sampled
+so we can be 95% confident that our estimate is within 2% of the true percentage of voters preferring the Democratic candidate?
+Answer : 2401
+
+M4L5HW2
+How many soda cans need to be sampled in order to be 95% confident 
+that your estimate of the average number of ounces in a soda can is accurate within 0.03 ounces? 
+Assume standard deviation of ounces in a can is 0.15 ounces.
+Answer : 97
+
+M4L5HW3
+How many American men's heights need to be sampled to be 95% confident 
+that you can estimate the average height of an American man within 1 inch? 
+Assume the standard deviation of an American men's height is 3 inches.
+Answer : 35
+
+M4L6HW1
+In a local election poll in a town with 5000 registered voters,
+how many voters need to be sampled so we can be 95% confident 
+that we can estimate the true percentage of voters preferring the Democratic candidate within 2%?
+Apply the finite correction factor to obtain your answer.
+Answer : 1623
+
+M4L6HW2
+In a batch of 200 soda cans, how many many soda cans need to be sampled in order to be 95% confident 
+that your estimate of the average number of ounces in a soda can is accurate within 0.03 ounces?
+Assume standard deviation of ounces in a can is 0.15 ounce. Apply the finite correction factor to obtain your answer.
+Answer : 66
+
+M4L6HW3
+You are told the standard deviation of the invoice size in a population of 200 invoice values is $1,000.
+A sample of 50 invoices yields an average invoice size of $5,000. 
+You are 95% confident that the average size of an invoice is between which two values?
+Calculate the lower and upper limit, and apply the finite correction factor to obtain your answer.
+Answer : $4,759 and $5,241 
+
+
+Module 4 Quiz
+
+M4Q1
+One hundred (100) randomly chosen high school students were asked if they had ever smoked marijuana.
+Sixty (60) students answered, and 25% said that they had smoked marijuana. 
+The school officials reported that 25% of the high school students had smoked marijuana.
+Is this research biased? If so, which bias was exhibited?
+Answer : Response bias
+
+M4Q2
+One 16-ounce bottle of an energy drink has an average of 500 mg of caffeine with a standard deviation of 25 mg. 
+In a carton containing 30 bottles, what is the standard deviation of the average amount of caffeine?
+Answer : 4.56
+
+M4Q3
+Assume that 8% of all Americans have diabetes. In a random sample of 50 Americans, 
+what is the standard deviation of the proportion of people in the sample that have diabetes?
+Answer : 0.04
+
+M4Q5
+A drawer contains 4 capsules numbered 1, 3, 5, and 7. A sample of size 2 is drawn with replacement. 
+What is the standard deviation of x-bar?
+Answer : 1.58
+
+M4Q6
+An auditor is trying to estimate the average size of an invoice.
+A sample of 64 invoices from a large population of invoices yields a mean of $300 with a standard deviation of $40.
+What is the 99% confidence interval?
+Answer : [$287, $313]
+
+M4Q7
+Your company manufacturers Bluetooth chips. To estimate the fraction of defective chips, you sample 100 chips,
+and find 4 are defective. You are 95% sure the actual percentage of defective Bluetooth chips is within which of the following ranges?
+Answer : [.002,.078]
+
+M4Q8
+A company with 500 employees wants to estimate the fraction of employees whose commute to work exceeds 60 minutes. 
+They survey 200 employees and find 60% of those surveyed have a commute exceeding 60 minutes. 
+They are 95% confident that the actual fraction of employees whose commute exceeds 60 minutes is within which of the following ranges?
+Apply the finite correction factor to your answer.
+Answer : 54.7% to 65.3%
+
+M4Q9
+We are trying to estimate the average salary of employees at a company.
+Assume the standard deviation of employee salaries is $20,000, and we want to be 95% sure our estimate is accurate within $3000.
+What size sample is needed?
+Answer : 170
+
+M4Q10
+A company with 400 employees wants to estimate the average commuting time for its employees. 
+They believe the standard deviation of the commuting time of employees is 10 minutes.
+If they want to be 95% confident that there estimate of mean commuting time is accurate within 5 minutes, 
+what sample size is needed? Apply the finite correction factor to obtain your answer.
+Answer : 15
+
+M4Q11
+If you obtain 0 successes or n successes when using n trials to estimate a population proportion, 
+our formula for a 95% confidence interval breaks down and has a width of 0. 
+In these situations, the formulas in Module4Quiz_Blyth.xlsx enable us to compute 95% confidence intervals for a population proportion.
+Suppose in 10,000 knee replacements at a hospital, none resulted in infections. 
+You are 95% sure the real chance of an infection on a knee replacement falls within which interval?
+Answer : [0, .0003]
+
+M4Q12
+If you obtain 0 successes or n successes when using n trials to estimate a population proportion,
+our formula for a 95% confidence interval breaks down and has a width of 0. In these situations, 
+the formulas in Module4Quiz_Blyth.xlsx enable us to compute 95% confidence intervals for a population proportion.
+Suppose that 50 samples of water were tested for contamination, and all samples were positive. You are 95% sure the real chance that the water is contaminated falls within which interval?
+Answer : [.942, 1]
