@@ -1,0 +1,215 @@
+M5L1HW1
+Suppose you want to determine if an Ebola vaccine is effective. Suppose 10% of people get Ebola. 
+Let p = fraction of vaccinated people who get Ebola. Define an appropriate null and alternative hypothesis. 
+What type of hypothesis is the alternative?
+Answer : Lower one-sided alternative hypothesis
+
+M5L1HW2
+A new cell phone chip vendor needs to prove that they are producing no more than 0.1% defective chips. 
+Let p = fraction of defective chips produced by the new vendor. Define an appropriate null and alternative hypothesis. 
+What type of hypothesis is the alternative?
+Answer : Lower one-sided alternative hypothesis
+
+M5L1HW3
+You want to determine if the average home price in Katy, Texas, is different than the average home price in Spr,ing Texas. 
+Define appropriate null and alternative hypothesses. What type of hypothesis is the alternative?
+Answer : Two-sided alternative hypothesis
+
+M5L2HW1
+Suppose you want to determine if an Ebola vaccine is effective.
+In the previous lesson, you set up an appropriate null and alternative hypothesis and determined the type of hypothesis. 
+Now, describe the Type I and Type II error and the form of the critical region.
+If we conclude the vaccine is not effective when it is actually effective, we have made a:
+Answer : Type II error.
+
+M5L2HW2
+A cell phone chip vendor needs to prove that they are producing at most 0.1% defective chips. 
+In the previous lesson, you set up an appropriate null and alternative hypothesis and determined the type of hypothesis. 
+Now, describe the Type I and Type II error and the form of the critical region.
+If we conclude the chips produced are acceptable when they are not, we have made a:
+Answer : Type I error.
+
+M5L2HW3
+You want to determine if the average home price in Katy, Texas, is different than the average home price in Spring, Texas. 
+In the previous lesson, you set up an appropriate null and alternative hypothesis and determined the type of hypothesis. 
+Now, describe the Type I and Type II error and the form of the critical region.
+If we conclude mean home prices in the two cities are the same when they are actually different, we have made a:
+Answer : Type II error. 
+
+M5L3HW1
+The average test score in the state of Texas is 75. A sample of 400 Dylan High School students yielded x-bar = 73 and s = 30. 
+For α = 0.05, would you conclude that Dylan students score significantly different than the state of Texas? 
+What p-value would you report?
+What do you conclude?
+Answer : We fail to reject Ho; the p-value is 0.18
+
+M5L3HW2
+Suppose a can of soda is supposed to contain 12 ounces of soda. 
+A random sample of 100 cans taken by the state of Washington yields x-bar = 11.9 and s = 0.2 ounces. For α=0.01,
+should the state conclude that soda cans are underfilled? What p-value would you report?
+What do you conclude?
+Answer : We reject Ho; the p-value is 0.00
+
+M5L3HW3
+The current version of the XOXO tire average lasts 40,000 miles before wearing out. 
+The tire has been redesigned, and 100 tires were tested. 
+The number of miles the tires lasted had x-bar = 41,000 and s = 10,000. 
+For α=0.10, would you conclude that the redesign has improved tire life? What p-value would you report?
+What do you conclude?
+Answer : We fail to reject Ho; the p-value is 0.1587
+
+M5L4HW1
+The average test score in the state of Texas is 75. A sample of 25 Dylan High School students yielded x-bar = 74 and s = 5. 
+For α = 0.05, would you conclude that Dylan students score significantly different than the state of Texas? 
+What p-value would you report? Assume test scores follow a normal random variable.
+What do you conclude?
+Answer : We fail to reject Ho; the p-value is 0.327
+
+M5L4HW2
+Suppose a can of soda is supposed to contain 12 ounces of soda. 
+A random sample of 10 cans taken by the state of Washington yi-elds xbar = 11.9 and s = 0.2 ounces. 
+For α = 0.01, should the state conclude that soda cans are underfilled? What p-value would you report? 
+Assume ounces of soda in a can follow a normal random variable.
+What do you conclude?
+Answer : We fail to reject Ho; the p-value is 0.07
+
+M5L4HW3
+The current version of the XOXO tire average lasts 40,000 miles before wearing out.
+The tire has been redesigned, and 20 tires were tested. The number of miles the tires lasted had xbar = 41,000 and s = 2,000. 
+For α = 0.10, would you conclude that the redesign has improved tire life? What p-value would you report? 
+Assume tire mileage follows a normal random variable.
+What do you conclude?
+Answer : We reject Ho; the p-value is 0.01
+
+M5L5HW1
+A cell phone chip vendor needs to prove to the government that they are producing at most 1% defective chips. 
+Let p = fraction of vendor’s chips that are defective. Suppose Ho: p less than or equal to .01 and Ha: p greater than .01. 
+That is, the government assumes the vendor is OK unless proven otherwise. In a sample of 500 chips from a large population, 
+suppose 10 were defective.
+For α = 0.05, would you accept or reject Ho?
+What do you conclude?
+Answer : We reject Ho; the p-value is 0.0311
+
+M5L5HW2
+A basketball player has a long history of making 70% of his free throws. Early in the season, she has made 180 of 300 free throws. 
+Does this provide sufficient evidence (for α=0.05) that the player's free throw shooting ability has changed?
+What do you conclude?
+Answer : We reject Ho, the p-value is 0.0003. The shooting ability has changed.
+
+M5L5HW3
+In the court case Castaneda vs. Partida before the Supreme Court, 
+the facts were that 79% of the people in Hidalgo County, Texas, had Spanish surnames 
+but only 339 of 870 jurors selected had Spanish surnames. 
+The Supreme Court used statistics to conclude that the jury process was unfair and underrepresented those with Spanish surnames.
+What do you conclude?
+Answer : Jury selection is underrepresented.
+
+M5L6HW1
+Use the data on annual stock and Tbill returns (provided in JulyVariancesHW.xlsx)
+to determine if Stocks and Tbills returns have equal variance. Use α = 0.05.
+Answer : The variances are not equal.
+
+M5L6HW2
+Use the data on annual stock and 10 year bond returns (provided in JulyVariancesHW.xlsx) 
+to determine if Stocks and Bonds10 returns have equal variance. Use α = 0.05.
+Answer : The variances are not equal.
+
+M5L6HW3
+You are given the total number of block shots and steals for 14 college basketball teams during 4 games. 
+Determine if steals and block shots have equal variance. Use α = 0.01.
+Answer : The variances are equal.
+
+M5L7HW1
+Use the given data on annual Tbills and 10 year bond returns (provided in Problem 1 of JulyTwoPopMeansHW.xlsx) 
+to determine if Tbills and Bonds10 returns have equal means. Use α = 0.05. The returns in each row are NOT from the same year.
+Answer : Means are equal
+
+M5L7HW2
+You are given the amount of money spent at a supermarket by a sample of shoppers during the morning and afternoon hours 
+(provided in Problem 2 of JulyTwoPopMeansHW.xlsx). 
+For α = 0.05, does this data indicate that morning shoppers spend less than afternoon shoppers?
+Answer : The p-value is 0.01, so you conclude that the average spent by morning customers is less than the average spent by afternoon customers 
+
+M5L7HW3
+You are given the miles per gallon obtained for 20 cars using gasoline and ethanol (provided in Problem 3 of JulyTwoPopMeansHW.xlxs). 
+For α = 0.01, does this data indicate that there is a significant difference in the MPG cars obtain when fueled by ethanol or gasoline?
+Answer : The p-value is 0.8200, so fail to reject that the average mileage does not depend on whether gas or ethanol is used.
+
+M5L8HW1
+Based on the data given JulyChi-SquaredHW.xlsx, for α = 0.05, 
+would you conclude that private and public school students have different tastes in music?
+Answer : We fail to reject the null hypothesis; students at public and private schools have the same taste in music.
+
+M5L8HW2
+Based on the data given in the file JulyChi-SquaredHW.xlsx, for α = 0.05, 
+would you conclude that the quality of the cell phone chips depends on where they are made?
+Answer : We fail to reject the null hypothesis; there is no significant difference in quality of chips produced at the three plants. 
+
+M5L8HW3
+Based on the data given in Problem 3 of JulyChi-SquaredHW.xlsx, for α = 0.05, 
+would you conclude there is a significant difference in the performance of the drugs?
+Answer : Drug 2 is more effective.
+
+
+Module 5 Quiz
+
+M5Q1
+Suppose you have the following hypotheses:
+Ho: A die is fair
+Ha: A die is not fair
+We toss a die 6 times, and reject Ho if >=4 results are 5 or 6. The chance of making a Type I Error is:
+Answer : 0.10
+
+M5Q2
+Let p be a population proportion. If Ho: p = 0.2 and Ha: p ≠ 0.2, what type of hypothesis test would we perform?
+Answer : Two-sided alternative hypothesis
+
+M5Q5
+Residents of Hawkins, Indiana, believe something has affected the growth of adult males. 
+Let µ = average height of an adult male born in Hawkins, Indiana.
+The city wants to test Ho: µ = 69 inches against Ha: µ ≠ 69 inches. 
+A random sample of 36 males born in Hawkins yields xbar = 67.5 and s = 4. For α = 0.05, what do you conclude?
+Answer : We reject Ho, meaning that the average height is NOT 69 inches.
+
+M5Q9
+Residents of Hawkins, Indiana, believe something has stunted the growth of adult males. 
+Let µ = average height of an adult male born in Hawkins, Indiana. 
+The city wants to test Ho: µ = 69 inches against Ha: µ ≠ 69 inches. 
+A random sample of 16 males born in Hawkins yields xbar = 66.5 and s = 4. For α = 0.05, what do you conclude? 
+Assume the relevant population follows a normal random variable.
+Answer : We reject Ho, meaning that the average height is NOT 69 inches.
+
+M5Q11
+Let p = fraction of shots taken from right side of the court when the rebound is grabbed on the right side of the court. 
+Of 110 missed shots from the right side of the court, 65 were rebounded on the right side of the court. 
+For α = 0.05, Ho: p = 0.5, and a two-tailed test, what would you conclude?
+Answer : We fail to reject Ho, meaning that there is NO difference in shots made from the expected proportion.
+
+M5Q15
+The Module5QuizData_HudsonHighSchool.xlsx spreadsheet contains the income of randomly selected families 
+whose students attend Hudson and Cedar Falls High Schools. 
+For α = 0.05, what would you conclude about the variances of family incomes at the two schools?
+Assume family incomes are normally distributed at each school.
+Answer : The variances are equal.
+
+M5Q16
+The Module5QuizData_HudsonHighSchool.xlsx spreadsheet contains the income of randomly selected families 
+whose students attend Hudson and Cedar Falls High Schools. 
+You want to test Ho: Hudson mean income = Cedar Falls mean income against Ha: Hudson mean income ≠ Cedar Falls mean income. 
+For α = 0.05, what do you conclude?
+Answer : We fail to reject Ho, because the p-value is 0.24.
+
+M5Q17
+The Module5QuizData_Drugs.xlsx spreadsheet contains the reduction in cholesterol resulting
+from a random sample of people taking Drug A and Drug B. 
+You want to test Ho: mean reduction in cholesterol from Drug A = mean reduction in cholesterol 
+from Drug B against Ha: mean reduction in cholesterol from Drug A ≠ mean reduction in cholesterol from Drug B. 
+For α = 0.05, what would you conclude?
+Answer : We reject Ho, meaning that there is a difference in cholesterol reduction between the drugs.
+
+M5Q18
+The Module5QuizData_Process.xlsx spreadsheet contains the amount (in pounds) of a drug produced for 100 days using Process A 
+and the amount of a drug (in pounds) produced using Process B on a different set of 100 days.
+You want to test Ho: mean pounds produced in a day with Process A = mean pounds produced in a day with Process B 
+against Ha: mean pounds produced in a day with Process A ≠ mean pounds produced in a day with Process B. For α = 0.05, what would you conclude?
+Answer : We fail to reject Ho, meaning that there is NO difference in production rates.
